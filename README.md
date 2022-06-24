@@ -1,4 +1,4 @@
-*Devsnest DSA BootCamp*
+**Devsnest DSA BootCamp**
 
 This Repository contains the codes, questions for the Devsnest assignments till date.
 <br>
